@@ -15,7 +15,7 @@
         changeImagesUpload:function (event) {
 
             let preview = this.el.querySelector('#image'),
-                    files   = event.target.files;
+                files   = event.target.files;
 
             this.vm.memory.imagesU = files[0];
             while ( preview.firstChild ) preview.removeChild( preview.firstChild );
