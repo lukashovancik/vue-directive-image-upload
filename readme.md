@@ -1,0 +1,1 @@
+Toto je časť s VUE JS projektu . Hlavnú časť tvorí vytvorenie vlastnej direktívy .
